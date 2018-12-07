@@ -1,7 +1,7 @@
 import numpy as np
 import random
 
-#2.1 Random Die Throw to 100 points
+#2.1 Random Die Throw to 100 Points
 
 conteo = []
 for i in range(100):
